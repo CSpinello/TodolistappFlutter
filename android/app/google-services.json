@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "776197642982",
+    "project_id": "flutter-quasar-todoliste",
+    "storage_bucket": "flutter-quasar-todoliste.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776197642982:android:a1637d25f6d96d06ee3927",
+        "android_client_info": {
+          "package_name": "quasar.todolistapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776197642982-o8uhf9946ntb03gbaeluv1bhfpkgkk4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDltouhDW69j9CJYlGy92ux7XHCCz4sDoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776197642982-o8uhf9946ntb03gbaeluv1bhfpkgkk4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
